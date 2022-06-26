@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huacheng</h1>
 <h3 align="center">A chill dev</h3>
 
-- 🔭 I’m currently working at **Capital One** as a fullstack engineer developing in React, Typescript, and Go
+- 🔭 I’m currently working as a fullstack engineer developing in React, Typescript, and Go
 
 - 📫 How to reach me **huacheng23@gmail.com**
 
