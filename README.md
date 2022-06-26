@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huacheng</h1>
-<h3 align="center">A chill dev</h3>
+<h3 align="center">I am a curious soul who has a passion for seeking out new perspectives and learnings.</h3>
 
 - 🔭 I’m currently working as a fullstack engineer developing in React, Typescript, and Go
 
