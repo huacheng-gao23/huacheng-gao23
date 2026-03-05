@@ -1,4 +1,4 @@
-- Fullstack engineer developing in React, Typescript, and Go
+- Hacking away with AI tooling
 
 - Email **huacheng23@gmail.com**
 
